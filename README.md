@@ -1,6 +1,12 @@
 # Kerberos.cloud
 
-This repository is created to report issues and request features for the kerberos.cloud application.## Vote for features[![Feature Requests](http://feathub.com/kerberos-io/cloud?format=svg)](http://feathub.com/kerberos-io/cloud)
+[![Kerberos.io - video surveillance](https://kerberos.io/images/kerberos.png)](https://kerberos.io)
+
+This repository is created to report issues and request features for the kerberos.cloud application.
+
+## Vote for features
+
+[![Feature Requests](http://feathub.com/kerberos-io/cloud?format=svg)](http://feathub.com/kerberos-io/cloud)
 
 ## How to request a feature.
 
