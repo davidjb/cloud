@@ -6,11 +6,11 @@ This repository is created to report issues and request features for the kerbero
 
 ## Vote for features
 
-[![Feature Requests](http://feathub.com/kerberos-io/cloud?format=svg)](http://feathub.com/kerberos-io/cloud)
+[![Feature Requests](https://feathub.com/kerberos-io/cloud?format=svg)](https://feathub.com/kerberos-io/cloud)
 
 ## How to request a feature.
 
-All features are managed on [**feature hub**](http://feathub.com/kerberos-io/cloud). You can upvote features or add new features to the hub by browsing to the [**feature hub**](http://feathub.com/kerberos-io/cloud) (or by clicking on a feature in the **vote for features** section above).
+All features are managed on [**feature hub**](https://feathub.com/kerberos-io/cloud). You can upvote features or add new features to the hub by browsing to the [**feature hub**](https://feathub.com/kerberos-io/cloud) (or by clicking on a feature in the **vote for features** section above).
 
 ## How to report a bug/issue.
 
